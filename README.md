@@ -7,7 +7,7 @@ Gives word/definition
 Gives spanish translation as well(for bilingual users)
 Learn new words in Spanish and add them to your word bank!
 
-Website:  https://lonxyboi22.github.io/vocabBuilder/
+Website:  https://angelagola-ko.github.io/vocabBuilder/
 
 # User Story:
 
